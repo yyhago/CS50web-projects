@@ -53,3 +53,61 @@ a{
   cursor: pointer;
   user-select: none;
 }
+
+.h1-advanced{
+  color: #d93025;
+  font-size: 20px;
+  margin: 25px 25px;
+}
+
+.h2-advanced{
+  padding-left: 10px;
+  font-size: 16px;
+  color: #333333;
+}
+
+.linha{
+  border-bottom: 1px solid #eeeeee;
+}
+
+.div-advanced{
+  margin: 50px;
+}
+
+.row-input{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 20px;
+  margin: 50px;
+  padding-left: 10px;
+}
+
+.left{
+  width: 200px;
+}
+
+.right{
+  width: 385px;
+}
+
+.p-advanced{
+  font-size: 13px;
+  vertical-align: middle;
+}
+
+.btn-advanced{
+  box-shadow: none;
+  background-color: #4d90fe;
+  border: 1px solid #3079ed;
+  color: #fff;
+}
+
+.btn-div{
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
